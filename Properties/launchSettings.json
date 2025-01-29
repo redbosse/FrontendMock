@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FrontendMock": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
